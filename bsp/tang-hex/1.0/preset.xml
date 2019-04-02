@@ -7,7 +7,7 @@
         <user_parameter name="CONFIG.PCW_CRYSTAL_PERIPHERAL_FREQMHZ" value="33.333333"/> 
         <user_parameter name="CONFIG.PCW_FPGA0_PERIPHERAL_FREQMHZ" value="100"/>
    		
-		    <user_parameter name="CONFIG.PCW_USE_M_AXI_GP0" value="1"/>
+		    <user_parameter name="CONFIG.PCW_USE_M_AXI_GP0" value="0"/>
 		
         <user_parameter name="CONFIG.PCW_PRESET_BANK0_VOLTAGE" value="LVCMOS 3.3V"/> 
         <user_parameter name="CONFIG.PCW_PRESET_BANK1_VOLTAGE" value="LVCMOS 3.3V"/> 
